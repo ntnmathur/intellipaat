@@ -6,3 +6,12 @@ venv ntnmathur$ python3 -m ipykernel install --user --name=python312_nitin
 
 # Install packages (ex: matplotlib) within a venv:
 pip3 install matplotlib
+
+
+##### GIT COMMANDS
+git status
+git add -A
+
+git commit -m "Matplotlib"
+
+git push
