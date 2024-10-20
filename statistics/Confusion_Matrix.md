@@ -1,5 +1,8 @@
 Link: https://drive.google.com/drive/u/0/folders/1ByPt04Z-8C3cN9Jn6jIXsGdeqa0EchNA
 
+https://drive.google.com/drive/u/0/folders/1ByPt04Z-8C3cN9Jn6jIXsGdeqa0EchNA
+https://colab.research.google.com/drive/1yA69TwwevybjtOrTzJs-HFvy5a_Sj-dm?usp=sharing
+
 # Hypothesis
 Null Hypothesis -> Base hypothesis that you can check to accept or reject
 Alternate Hypothesis -> The alternate that you are tryng to prove
